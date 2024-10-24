@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-//how
+// how to work
 
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
