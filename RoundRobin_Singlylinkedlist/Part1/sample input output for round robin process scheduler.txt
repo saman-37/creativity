@@ -1,0 +1,10 @@
+Suppose process.txt contains
+3
+7,13,8
+
+expected output
+
+p1: 19
+p2: 28
+p3: 24
+average: 23.67
