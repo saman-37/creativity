@@ -1,11 +1,9 @@
 #include <iostream>
 
 using namespace std;
-// how to work
 
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
-
 class Node // Node class
 {
 public:

@@ -1,10 +1,3 @@
-/*
-Name : Samanpreet Kaur
-Id: 100399074
-Instructor: Muntaseer Salahuddin
-Section: 001
-*/
-
 #ifndef HASHINGLINEARPROBINGDEMO_H
 #define HASHINGLINEARPROBINGDEMO_H
 #include <iostream>

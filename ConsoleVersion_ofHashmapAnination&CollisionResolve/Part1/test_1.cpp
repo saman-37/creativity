@@ -1,9 +1,3 @@
-/*
-Name : Samanpreet Kaur
-Id: 100399074
-Instructor: Muntaseer Salahuddin
-Section: 001
-*/
 
 #include <iostream>
 #include "Hashing_LinearProbing.h"

@@ -19,8 +19,7 @@ public class GUI extends Application {
         launch(args);
     }
 
-    // We will need instance of Time class 2 times, once during beginning to get
-    // current date
+    // We will need instance of Time class 2 times, once during beginning to getcurrent date
     // once during event handling, when need to produce result
     private SampleJavaTime counter = new SampleJavaTime(); // calling no-arg constructor
 
